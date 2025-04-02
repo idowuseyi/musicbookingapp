@@ -13,6 +13,12 @@ This is a NestJS-powered REST API for a Music Booking App, designed to handle:
 ✅ Payments (Stripe/PayPal for transactions)
 ✅ Security (Bcrypt for password hashing, Passport for auth)
 
+## Quick Links:
+
+[Database Schema Link![](https://app.eraser.io/workspace/UDJp0kE4JfNzjG16FJeH/preview?elements=u1Rpi-JOF293VJmIw5a0kw&type=embed)](https://app.eraser.io/workspace/UDJp0kE4JfNzjG16FJeH?elements=u1Rpi-JOF293VJmIw5a0kw)
+
+![Database Schema](<Screenshot from 2025-04-03 00-42-08.png>)
+
 ## ⚙️ Tech Stack
 
 - Tool Purpose
